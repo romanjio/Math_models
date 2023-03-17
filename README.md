@@ -1,2 +1,2 @@
-# Python
-Time series, trend search
+# Mathematical modeling(Python, Matlab)
+lab6 - Time series, trend search
